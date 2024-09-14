@@ -3,7 +3,7 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-.bg-cover {
+.bg-cover, .t-cover__carrier {
     height: 100vh;
     width: 100%;
     background-size: cover;
