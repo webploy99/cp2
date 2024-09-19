@@ -11,7 +11,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top center;
     text-align: center;
     vertical-align: middle;
     position: relative;
